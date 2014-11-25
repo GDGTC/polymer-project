@@ -44,8 +44,8 @@ Armed with your favorite text editor, there are many ways to begin developing a 
     - Node/npm
     - Link to steps for spinning up a local dev server
     - Polymer Seed app
-    - [Polymer Yeoman generator](https://github.com/yeoman/generator-polymer)
-    - [Polymer Yeoman Generator (Gulp Version)](https://github.com/NicoArbogast/generator-polymer-gulp)
+    - [Polymer Yeoman Generator (Official Grunt Version)](https://github.com/yeoman/generator-polymer)
+    - [Polymer Yeoman Generator (Alernative Gulp Version)](https://github.com/NicoArbogast/generator-polymer-gulp)
 
 
 ## Super-Helpful Resources
