@@ -56,6 +56,8 @@ Armed with your favorite text editor, there are many ways to begin developing a 
     - [Polymer Yeoman Generator (Official Grunt Version)](https://github.com/yeoman/generator-polymer)
     - [Polymer Yeoman Generator (Alernative Gulp Version)](https://github.com/NicoArbogast/generator-polymer-gulp)
 
+## Current Web Components in Development
+- [meetup-element](https://github.com/GDGTC/meetup-element)    
 
 ## Super-Helpful Resources
 
