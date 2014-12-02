@@ -12,6 +12,10 @@ This page will attempt to serve its comprehensive guide.
 ## The Mission
 
 Creating reusable Polymer Web Components and delivering a published build to
+<<<<<<< HEAD
+=======
+
+>>>>>>> 46b3ea8f5e9c21544ce9c15e3c5981889c2d1641
 1. [customelements.io](http://customelements.io/)
 
 2. [The Bower registry](http://bower.io/docs/creating-packages/)
