@@ -5,14 +5,23 @@ GDGTC Polymer Web Components Project
 
 Web Components are no longer the future. They're here. What comes next is ensuring that we, as Web developers, deliver on their astounding potential.
 
+The GDGTC Polymer Web Components project is a set of Web Components repositories -- much like those found on the [Polymer team's main profile](https://github.com/polymer/polymer) -- where Web Component ideas proposed by the group can be actively developed and contributed to.
+
+This page will attempt to serve its comprehensive guide.
+
 ## The Mission
 
-Creating reusable Polymer Web Components and publishing them on [customelements.io](http://customelements.io/)
+Creating reusable Polymer Web Components and delivering a published build to
+1. [customelements.io](http://customelements.io/)
+
+2. [The Bower registry](http://bower.io/docs/creating-packages/)
 
 ## How to Contribute
+Whether at our monthly Meetups or through the issues tab of this repo, we're always looking to gather ideas for new Web Components and open up a new project to the community.
+
 The Polymer team has assembled a rather excellent guide for [creating and publishing reusable Polymer components](https://www.polymer-project.org/docs/start/reusableelements.html). This is exactly the framework that we'll be following here. (The only difference, of course, will be the community-wide scale!)
 
-All GDGTC components will be nested in this repository, within their own [submodule](http://git-scm.com/book/en/v2/Git-Tools-Submodules). The components will be initialized whenever we get a proposal from the community (or whenever inspiration simply strikes), and from there the hacking begins
+The components will be initialized whenever we get a proposal from the community (or whenever inspiration simply strikes), and from there the hacking begins
 
 **TODO**
  - Determine how to accept proposals (we could have     them posted via the main repo's Issues page)
