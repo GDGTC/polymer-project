@@ -5,7 +5,7 @@ GDGTC Polymer Web Components Project
 
 Web Components are no longer the future. They're here. What comes next is ensuring that we, as Web developers, deliver on their astounding potential.
 
-The GDGTC Polymer Web Components project is a set of Web Components repositories -- much like those found on the [Polymer team's main profile](https://github.com/polymer/polymer) -- where Web Component ideas proposed by the group can be actively developed and contributed to.
+The GDGTC Polymer Web Components project is a set of Web Components repositories -- much like those found on the [Polymer team's main profile](https://github.com/Polymer) -- where Web Component ideas proposed by the group can be actively developed and contributed to.
 
 This page will attempt to serve its comprehensive guide.
 
@@ -57,7 +57,7 @@ Armed with your favorite text editor, there are many ways to begin developing a 
     - [Polymer Yeoman Generator (Alernative Gulp Version)](https://github.com/NicoArbogast/generator-polymer-gulp)
 
 ## Current Web Components in Development
-- [meetup-element](https://github.com/GDGTC/meetup-element)    
+- [meetup-element](https://github.com/GDGTC/meetup-element)
 
 ## Super-Helpful Resources
 
